@@ -1,0 +1,4 @@
+name: oopwp
+recipe: wordpress
+config:
+  webroot: wp
