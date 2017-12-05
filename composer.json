@@ -13,6 +13,6 @@
         "johnpbloch/wordpress": "4.9.1"
     },
     "extra": {
-    "wordpress-install-dir": "."
+    "wordpress-install-dir": "wp"
   }
 }
