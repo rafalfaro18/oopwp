@@ -9,5 +9,7 @@
             "email": "rafalfaro_18@outlook.com"
         }
     ],
-    "require": {}
+    "require": {
+        "johnpbloch/wordpress": "4.9.1"
+    }
 }
