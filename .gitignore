@@ -23,6 +23,13 @@ wp/wp-links-opml.php
 wp/wp-load.php
 wp/wp-login.php
 wp/wp-mail.php
+wp/wp-content/themes/twentyfifteen
+wp/wp-content/themes/twentysixteen
+wp/wp-content/themes/twentyseventeen
+wp/wp-content/themes/index.php
+wp/wp-content/index.php
+wp/wp-content/plugins/index.php
+wp/wp-content/plugins/akismet
 wp/wp-settings.php
 wp/wp-signup.php
 wp/wp-trackback.php
