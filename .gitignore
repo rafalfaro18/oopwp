@@ -9,7 +9,25 @@ wp/wp-content/upgrade/
 wp/wp-content/uploads/
 wp/wp-content/wp-cache-config.php
 wp/wp-content/plugins/hello.php
+wp/wp-admin
+wp/wp-includes
 
+*composer.lock
+wp/index.php
+wp/wp-activate.php
+wp/wp-blog-header.php
+wp/wp-comments-post.php
+wp/wp-config-sample.php
+wp/wp-cron.php
+wp/wp-links-opml.php
+wp/wp-load.php
+wp/wp-login.php
+wp/wp-mail.php
+wp/wp-settings.php
+wp/wp-signup.php
+wp/wp-trackback.php
+wp/xmlrpc.php
+wp/composer.json
 wp/.htaccess
 wp/license.txt
 wp/readme.html
