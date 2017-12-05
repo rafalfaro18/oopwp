@@ -21,3 +21,4 @@ lando start
 ```
 lando db-import db/wordpress.201712051512493809.gz
 ```
+- go to [Site](http://oopwp.lndo.site)
